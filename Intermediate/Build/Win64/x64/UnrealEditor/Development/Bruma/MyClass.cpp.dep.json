@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\proyectobruma\\source\\bruma\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\proyectobruma\\intermediate\\build\\win64\\x64\\brumaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "d:\\proyectobruma\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bruma\\definitions.bruma.h",
+            "d:\\proyectobruma\\source\\bruma\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

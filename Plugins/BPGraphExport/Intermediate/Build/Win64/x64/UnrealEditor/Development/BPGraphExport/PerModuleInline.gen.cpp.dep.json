@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\equipo\\documents\\github\\proyectobruma\\proyectobruma\\plugins\\bpgraphexport\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bpgraphexport\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\equipo\\documents\\github\\proyectobruma\\proyectobruma\\intermediate\\build\\win64\\x64\\brumaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\equipo\\documents\\github\\proyectobruma\\proyectobruma\\plugins\\bpgraphexport\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bpgraphexport\\definitions.bpgraphexport.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

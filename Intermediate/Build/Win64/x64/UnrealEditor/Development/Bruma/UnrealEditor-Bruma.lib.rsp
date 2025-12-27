@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Bruma.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/ProyectoBruma/Intermediate/Build/Win64/x64/BrumaEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"D:/ProyectoBruma/Intermediate/Build/Win64/x64/UnrealEditor/Development/Bruma/Bruma.cpp.obj"
+"D:/ProyectoBruma/Intermediate/Build/Win64/x64/UnrealEditor/Development/Bruma/MyClass.cpp.obj"
+"D:/ProyectoBruma/Intermediate/Build/Win64/x64/UnrealEditor/Development/Bruma/PerModuleInline.gen.cpp.obj"
+"D:/ProyectoBruma/Intermediate/Build/Win64/x64/UnrealEditor/Development/Bruma/Default.rc2.res"
+/OUT:"D:/ProyectoBruma/Intermediate/Build/Win64/x64/UnrealEditor/Development/Bruma/UnrealEditor-Bruma.lib"

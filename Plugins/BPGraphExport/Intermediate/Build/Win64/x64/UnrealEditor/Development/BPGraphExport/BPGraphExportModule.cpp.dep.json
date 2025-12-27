@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\proyectobruma\\plugins\\bpgraphexport\\source\\bpgraphexport\\private\\bpgraphexportmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\proyectobruma\\intermediate\\build\\win64\\x64\\brumaeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "d:\\proyectobruma\\plugins\\bpgraphexport\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bpgraphexport\\definitions.bpgraphexport.h",
+            "d:\\proyectobruma\\plugins\\bpgraphexport\\source\\bpgraphexport\\public\\bpgraphexporter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

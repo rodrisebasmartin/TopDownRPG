@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1",
+  "FriendlyName": "Blueprint Graph Export",
+  "Description": "Exporta grafos de Blueprints a JSON (nodos, pines y conexiones).",
+  "Category": "Editor",
+  "EnabledByDefault": true,
+  "Modules": [
+    { "Name": "BPGraphExport", "Type": "Editor", "LoadingPhase": "Default" }
+  ]
+}

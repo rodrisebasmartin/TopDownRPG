@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\ProyectoBruma\\Source\\Bruma\\Bruma.Build.cs",
+		"D:\\ProyectoBruma\\Plugins\\BPGraphExport\\Source\\BPGraphExport\\BPGraphExport.Build.cs",
+		"D:\\ProyectoBruma\\Source\\Bruma.Target.cs",
+		"D:\\ProyectoBruma\\Source\\BrumaEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

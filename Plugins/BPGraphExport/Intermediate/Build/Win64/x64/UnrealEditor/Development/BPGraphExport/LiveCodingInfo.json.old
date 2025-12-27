@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BPGraphExport.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"BPGraphExportModule.cpp.obj",
+			"BPGraphExporter.cpp.obj"
+		]
+	}
+}

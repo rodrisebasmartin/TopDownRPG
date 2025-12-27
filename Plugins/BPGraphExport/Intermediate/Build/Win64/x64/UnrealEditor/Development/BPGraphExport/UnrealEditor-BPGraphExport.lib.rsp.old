@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BPGraphExport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/EQUIPO/Documents/GitHub/ProyectoBruma/ProyectoBruma/Intermediate/Build/Win64/x64/BrumaEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/EQUIPO/Documents/GitHub/ProyectoBruma/ProyectoBruma/Plugins/BPGraphExport/Intermediate/Build/Win64/x64/UnrealEditor/Development/BPGraphExport/Module.BPGraphExport.cpp.obj"
+"C:/Users/EQUIPO/Documents/GitHub/ProyectoBruma/ProyectoBruma/Plugins/BPGraphExport/Intermediate/Build/Win64/x64/UnrealEditor/Development/BPGraphExport/BPGraphExporter.cpp.obj"
+"C:/Users/EQUIPO/Documents/GitHub/ProyectoBruma/ProyectoBruma/Plugins/BPGraphExport/Intermediate/Build/Win64/x64/UnrealEditor/Development/BPGraphExport/Default.rc2.res"
+/OUT:"C:/Users/EQUIPO/Documents/GitHub/ProyectoBruma/ProyectoBruma/Plugins/BPGraphExport/Intermediate/Build/Win64/x64/UnrealEditor/Development/BPGraphExport/UnrealEditor-BPGraphExport.lib"

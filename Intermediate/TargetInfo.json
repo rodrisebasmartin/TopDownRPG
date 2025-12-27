@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bruma",
+			"Path": "..\\Source\\Bruma.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrumaEditor",
+			"Path": "..\\Source\\BrumaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

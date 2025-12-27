@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EQUIPO\\Documents\\GitHub\\ProyectoBruma\\ProyectoBruma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C34D0539-C821-347A-8087-009C5C8A927F}|..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source\\Programs\\AutomationTool\\AutomationUtils\\AutomationUtils.Automation.csproj|c:\\program files\\epic games\\ue_5.6\\engine\\source\\programs\\automationtool\\automationutils\\automationutils.automation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutomationUtils.Automation",
+              "DocumentMoniker": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source\\Programs\\AutomationTool\\AutomationUtils\\AutomationUtils.Automation.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source\\Programs\\AutomationTool\\AutomationUtils\\AutomationUtils.Automation.csproj",
+              "ToolTip": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source\\Programs\\AutomationTool\\AutomationUtils\\AutomationUtils.Automation.csproj [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source\\Programs\\AutomationTool\\AutomationUtils\\AutomationUtils.Automation.csproj [Solo lectura]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T17:04:50.05Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
